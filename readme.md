@@ -13,7 +13,7 @@ The RNA-Seq data was obtained from The Cancer Genome Atlas database. We cleaned 
 ## Conclusion
 Breast cancer involves a variety of subtypes with different morphologies and clinical significance. Determining the subtype is essential for cancer treatment to choose precise treatment options. In this project, we made a machine learning model that could help speed up the process of gene subtype identification to an 86.5% accuracy rate. This was a manifestation of how machine learning can impact healthcare as a whole.
 
-
+ 
 # Data
 
 The TCGA breast cancer expression data can be downloaded using this command:
